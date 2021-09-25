@@ -1,0 +1,22 @@
+[
+    {
+        "id": "asdsad1",
+        "name": "iPhone",
+        "price": 25000
+    },
+    {
+        "id": "asdad2",
+        "name": "Mouse",
+        "price": 200
+    },
+    {
+        "id": "Asdsad3",
+        "name": "Monitor",
+        "price": 14000
+    },
+    {
+        "id": "asdsadd4",
+        "name": "PC",
+        "price": 30000
+    }
+]

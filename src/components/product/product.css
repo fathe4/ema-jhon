@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    gap: 10px;
+    padding: 20px 0;
+    border-bottom: 2px solid rgb(231, 231, 231);
+    
+}
+.product-img{
+    margin-right: 40px;
+}
+
+.product-title{
+    font-weight: 400;
+    color: blue;
+}
+
+.buy-now-btn{
+    padding: 10px 40px;
+    background-color: goldenrod;
+    color: #000;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.star-icon{
+    color: goldenrod;
+}

@@ -1,0 +1,16 @@
+.logo{
+    margin: 0 auto;
+    width: 300px;
+    display: block;
+    align-items: center;
+}
+.nav-menu{
+    background-color: black;
+    padding: 20px 0;
+    text-align: center;
+}
+.nav-menu a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: azure;
+}
